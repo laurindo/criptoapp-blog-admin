@@ -11,6 +11,8 @@ module.exports = [
         "http://localhost:3000",
         "https://criptoapp-blog-admin.herokuapp.com",
         "https://criptoapp.com.br",
+        "https://www.criptoapp.com.br/",
+        "criptoapp.com.br",
       ],
     },
   },
