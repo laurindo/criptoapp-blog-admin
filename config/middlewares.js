@@ -6,7 +6,12 @@ module.exports = [
     config: {
       enabled: true,
       headers: "*",
-      origin: ["http://localhost:1337", "http://localhost:3000"],
+      origin: [
+        "http://localhost:1337",
+        "http://localhost:3000",
+        "https://criptoapp-blog-admin.herokuapp.com",
+        "https://criptoapp.com.br",
+      ],
     },
   },
   "strapi::logger",
